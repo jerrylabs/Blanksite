@@ -118,7 +118,7 @@ There are several ways to convey author-specific information. Author information
 
 ### Meta tags
 
-The plugin exposes a helper tag to expose the appropriate meta tags to support automated discovery of your feed. Simply place `{% feed_meta %}` someplace in your template's `<head>` section, to output the necessary metadata.
+The plugin exposes a helper tag to expose the appropriate meta tags to support automated discovery of your feed. Simply place ` feed_meta ` someplace in your template's `<head>` section, to output the necessary metadata.
 
 ### SmartyPants
 
